@@ -1,0 +1,12 @@
+dataset -1
+https://www.kaggle.com/datasets/drishtiagarwal20/brands-and-product-emotions/data
+ 
+dataset-2
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+ 
+dataset-3
+https://www.kaggle.com/datasets/kazanova/sentiment140
+ 
+dataset-4
+https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
+Large Movie Review Dataset
